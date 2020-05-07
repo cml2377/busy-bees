@@ -4,6 +4,17 @@ First Ionic app attempt-- creating a messenger app?
 ## Purpose
 Just creating a personal chat app for myself and a few friends.
 
+## Tech
+Frontend
+> Ionic Framework with React/Typescript for frontend UX and UI interaction. 
+Backend
+> Firebase with Chat SDK
+
+https://ionicframework.com/
+https://chatsdk.co/
+https://firebase.google.com/
+
+
 ## How to Use (for myself, not any possible users)
 
 - Go to your new project: `cd .\busy-bees`
