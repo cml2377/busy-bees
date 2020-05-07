@@ -7,6 +7,7 @@ Just creating a personal chat app for myself and a few friends.
 ## Tech
 Frontend
 > Ionic Framework with React/Typescript for frontend UX and UI interaction. 
+
 Backend
 > Firebase with Chat SDK
 
