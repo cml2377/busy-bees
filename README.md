@@ -12,6 +12,7 @@ Backend
 
 https://ionicframework.com/
 https://chatsdk.co/
+https://github.com/chat-sdk/chat-sdk-web
 https://firebase.google.com/
 
 
@@ -27,6 +28,19 @@ https://firebase.google.com/
 - Explore the Ionic docs for components, tutorials, and more: https://ion.link/docs     
 - Building an enterprise app? Ionic has Enterprise Support and Features:
 https://ion.link/enterprise-edition
+
+<hr>
+
+- Deploying Firebase Hosting
+  > Navigate to the root directory of the app. 
+- Sign in to Google
+- `firebase login`
+- Initiate your project
+- `firebase init`
+- When you're ready, deploy your web app
+- `firebase deploy`
+
+After deploying, view your app at busy-bees-1cd1c.web.app
 
 ## Notes
 
