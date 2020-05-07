@@ -10,10 +10,10 @@ Frontend
 Backend
 > Firebase with Chat SDK
 
-https://ionicframework.com/
-https://chatsdk.co/
-https://github.com/chat-sdk/chat-sdk-web
-https://firebase.google.com/
+https://ionicframework.com/  
+https://chatsdk.co/  
+https://github.com/chat-sdk/chat-sdk-web  
+https://firebase.google.com/  
 
 
 ## How to Use (for myself, not any possible users)
