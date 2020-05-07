@@ -1,0 +1,7 @@
+{
+  "name": "Busy Bees",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
