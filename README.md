@@ -41,7 +41,12 @@ https://ion.link/enterprise-edition
 - When you're ready, deploy your web app
 - `firebase deploy`
 
-After deploying, view your app at busy-bees-1cd1c.web.app
+After deploying, view your app at https://busy-bees-1cd1c.web.app
+
+<hr>
+
+### Basic Mockup of a General messenger App-- comparing normal (light) to prototype (dark) messenger app.
+<img src="./busy-bees/readmeFiles/readme-mockup-screenshot.png" width="100%">
 
 ## Notes
 
