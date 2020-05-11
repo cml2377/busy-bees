@@ -1,8 +1,8 @@
-# Busy Bees
-First Ionic app attempt-- creating a messenger app?
+# <img src="./busy-bees/readmeFiles/busy-bees-logo.png" width="9%"> Busy Bees
+First Ionic app attempt-- creating a messenger app and to-do list
 
 ## Purpose
-Just creating a personal chat app for myself and a few friends.
+Just creating a personal chat app for myself and a few friends. It will keep track of project related chat and tasks.
 
 ## Tech
 Frontend
