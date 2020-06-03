@@ -1,5 +1,5 @@
 import React from 'react';
-import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/react';
+import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar, IonCardSubtitle, IonCardTitle } from '@ionic/react';
 import ToDoContainer from '../components/ToDoContainer';
 import './Tab2.css';
 
@@ -14,8 +14,10 @@ const Tab2: React.FC = () => {
       <IonContent>
         <IonHeader collapse="condense">
           <IonToolbar>
-            <IonTitle size="large">To-Do List</IonTitle>
+            <IonCardTitle id="toDoTitle">To-Do List</IonCardTitle>
+            <IonCardSubtitle id="subtitle">Keep track of your tasks here!</IonCardSubtitle>
           </IonToolbar>
+
         </IonHeader>
         <ToDoContainer name="Tab 2 page" />
       </IonContent>

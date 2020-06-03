@@ -14,9 +14,9 @@ const MessageContainer: React.FC<ContainerProps> = ({ name }) => {
         <IonItem>
           <IonAvatar slot="start"><svg width="40" height="40" data-jdenticon-value="user127"></svg></IonAvatar>
           <IonLabel>
-            <h2>Crystal</h2>
-            <h3>Creator, Lo-Mein Coder</h3>
-            <p>Sure! That sounds like a great idea...</p>
+            <h2>Teahouse</h2>
+            <h3>Spill the Tea</h3>
+            <p>Crystal: Sure! That sounds like a great idea...</p>
           </IonLabel>
         </IonItem>
         <IonItem>
@@ -84,7 +84,7 @@ const MessageContainer: React.FC<ContainerProps> = ({ name }) => {
           </IonLabel>
         </IonItem>
         <IonItem>
-          <IonAvatar slot="start"><svg width="40" height="40" data-jdenticon-value="Justin"></svg></IonAvatar>
+          <IonAvatar slot="start"><svg width="40" height="40" data-jdenticon-value="Kimi"></svg></IonAvatar>
           <IonLabel>
             <h2>Kimi</h2>
             <h3>Working Hard</h3>

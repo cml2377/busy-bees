@@ -1,0 +1,31 @@
+#userProfileImg{
+    position: relative;
+}
+
+#profileContainer{
+    min-height: 150px;
+}
+
+#profileAvatar{
+    min-height: 90px;
+    position: absolute;
+    left: 37%;
+    margin-top: 15px;
+}
+
+#profileImgButton{
+    position: absolute;
+    bottom: 3px;
+    left: 50%;
+    transform: translate(-55%);
+}
+
+#saveProfileChangesButton{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.native-input{
+    text-align: right !important;
+}
