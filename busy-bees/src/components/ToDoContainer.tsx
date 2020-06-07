@@ -12,7 +12,7 @@ const ToDoContainer: React.FC<ContainerProps> = ({ name }) => {
 
     return (
         <IonContent>
-            <IonList>
+            <IonList id="toDoList">
                 <IonItem>
                     <IonLabel>Work on Busy Bees App</IonLabel>
                     <IonCheckbox color="primary" checked={true} onIonChange={e => setChecked(e.detail.checked)} />
@@ -31,7 +31,7 @@ const ToDoContainer: React.FC<ContainerProps> = ({ name }) => {
                 </IonItem>
             </IonList>
             <section className="full-width">
-                <IonButton expand="block" color="primary" fill="solid">Add New To-Do</IonButton>
+                <IonButton id="addNewToDoBtn" expand="block" color="primary" fill="solid">Add New To-Do</IonButton>
             </section>
         </IonContent>
     );
