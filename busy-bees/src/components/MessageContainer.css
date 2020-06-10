@@ -22,3 +22,11 @@
 .container a {
   text-decoration: none;
 }
+
+h2 {
+  color: #e9d770;
+}
+
+h3 {
+  font-style: italic;
+}

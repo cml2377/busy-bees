@@ -1,5 +1,5 @@
 .messageContainer{
-    padding-bottom: 45px;
+    padding-bottom: 50px;
 }
 
 #newMessageBtn {
@@ -7,4 +7,5 @@
     right: 10px;
     bottom: 10px;
     font-size: 34px;
+    color: #feed52;
 }
